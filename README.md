@@ -1,2 +1,4 @@
-# Hello from Main Branch.
+Hello from Main Branch.
+Hello from Conflict Branch.
+
 
