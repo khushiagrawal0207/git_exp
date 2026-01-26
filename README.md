@@ -1,2 +1,2 @@
-# It's PS-V, Experiment No. 02.
+# Experiment No.2; PS-V
 
